@@ -2,7 +2,11 @@
 
 ![Image text](Background.png)
 
-项目介绍: [哔哩哔哩](https://www.bilibili.com/opus/1039322565993037829)
+本词库依托微软拼音输入法实现学生中/日/英文名快捷输入。
+
+**词库文件：**[BA_NameMatrix.dat](https://github.com/Dsinggg/BlueArchive_NameMatrix/blob/main/BA_NameMatrix.dat)
+
+**项目介绍：**[哔哩哔哩](https://www.bilibili.com/opus/1039322565993037829)
 
 ## 罗马音简称对应表
 
@@ -81,3 +85,6 @@
 |wkm|若藻|Wakamo|
 |ykr|紫|Yukari|
 |ysm|好美|Yoshimi|
+
+## 更新日志
+* 2025年3月1日：发布BA_NameMatrix
